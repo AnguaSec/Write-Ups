@@ -7,6 +7,6 @@ Nahamcon 2023 Geosint challenge
 
 ## Conferences
 
-Bsides Lancashire
-Bsidess Cymru (Cardiff)
-Bsides Newcastle
+[Bsides Lancashire]
+[Bsidess Cymru (Cardiff)]
+[Bsides Newcastle]
