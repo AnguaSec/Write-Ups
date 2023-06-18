@@ -9,4 +9,4 @@ Nahamcon 2023 Geosint challenge
 
 Bsides Lancashire\
 Bsidess Cymru (Cardiff)\
-Bsides Newcastle\
+Bsides Newcastle
