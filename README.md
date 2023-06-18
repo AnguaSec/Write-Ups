@@ -1,2 +1,2 @@
 # Write-Ups
-A collection of writes ups of events/challenges
+This is a place for Write ups of events or challenges 
