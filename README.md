@@ -12,6 +12,6 @@ This is a place for Write ups of events or challenges
 3.[BSides Lancashire 2023]( https://github.com/AnguaSec/Write-Ups/blob/main/Bsides%20Lancashire%202023.pdf)\
 4.[BSides Leeds 2023](https://github.com/AnguaSec/Write-Ups/blob/main/Bsides%20Leeds%202023.pdf)\
 5.\
-6.[BSides Bristol 2023]
+6.[BSides Bristol 2023](https://github.com/AnguaSec/Write-Ups/blob/main/Bsides%20Bristol%202023.pdf)
 
 
