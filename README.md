@@ -2,7 +2,8 @@
 This is a place for Write ups of events or challenges 
 
 ## Challenges
-1.[Nahamcon 2023 Geosint challenge]( https://github.com/AnguaSec/Write-Ups/blob/main/NahamCon%20Geosint%20Challenge%20Write%20Up.pdf)
+1.[TraceLabs August 2022](https://github.com/AnguaSec/Write-Ups/blob/main/Tracelabs%20August%202022.pdf)\
+2.[Nahamcon 2023 Geosint challenge]( https://github.com/AnguaSec/Write-Ups/blob/main/NahamCon%20Geosint%20Challenge%20Write%20Up.pdf)
 
 
 ## Conferences
